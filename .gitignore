@@ -1,0 +1,7 @@
+
+bin
+src_jcg284_shg64_hos7_wc523/lexer/MyLexer.java*
+src_jcg284_shg64_hos7_wc523/parser/*.java
+src.zip
+tests/*/*.lexed
+tests/*/*.parsed
